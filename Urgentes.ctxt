@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Urgentes
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Urgentes\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Urgentes()
+comment2.params=xx\ yy\ temp
+comment2.target=Urgentes(double,\ double,\ double)
+comment3.params=u
+comment3.target=Urgentes(Urgentes)
+comment4.params=
+comment4.target=double\ getTemp()
+comment5.params=temp
+comment5.target=void\ setTemp(double)
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=Urgentes\ clone()
+numComments=9

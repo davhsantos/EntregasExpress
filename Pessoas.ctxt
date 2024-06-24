@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pessoas
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Pessoas\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Pessoas()
+comment10.params=
+comment10.target=Pessoas\ clone()
+comment2.params=xx\ yy\ lot\ c
+comment2.target=Pessoas(double,\ double,\ int,\ boolean)
+comment3.params=p
+comment3.target=Pessoas(Pessoas)
+comment4.params=
+comment4.target=int\ getLotacao()
+comment5.params=lotacao
+comment5.target=void\ setLotacao(int)
+comment6.params=
+comment6.target=boolean\ getCriancas()
+comment7.params=criancas
+comment7.target=void\ setCriancas(boolean)
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Bus\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Bus()
+comment2.params=xx\ yy\ nrpessoas
+comment2.target=Bus(double,\ double,\ int)
+comment3.params=b
+comment3.target=Bus(Bus)
+comment4.params=
+comment4.target=int\ getNrPessoas()
+comment5.params=nrpessoas
+comment5.target=void\ setNrPessoas(int)
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=Bus\ clone()
+numComments=9
